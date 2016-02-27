@@ -1,0 +1,6 @@
+For the assignment, I've attempted to implement the feature that would create a file to write the location updates to and read them. Unfornutately that is as far as I could go. There were a lot of obstacles that couldn't be overlooked. 
+
+The most frustrating part of this was creating the file. The developer pages didn't describe where the location of the file was. 
+After snooping around with google, I found that the file would be created under a private folder on my phone and I can't have access to it unless I root the device, which I don't want to. 
+
+I tried to find out what the filepath was for the files I've made but it's quite soon till the deadline so I'm calling it quits.
